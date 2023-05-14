@@ -1,6 +1,6 @@
 {
   "name": "dev-monitor",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple tool to monitor changes in your Node.js application and restart it automatically",
   "main": "index.js",
   "bin": {
